@@ -7,7 +7,7 @@
 
 
 ##### Below is the first few rows and columns of all variables recorded in the sleep.csv dataset.
-<img src="https://github.com/user-attachments/assets/a13087f8-587e-48f0-8494-77868eec0bec" width="750" height="300">
+<img src="https://github.com/user-attachments/assets/a13087f8-587e-48f0-8494-77868eec0bec" width="850" height="300">
 
 
 ##### And here is a snippet of the findings acquired through comparisons between linear regression and CART model. Do check out the assignment report for more information on how this is interpreted!
