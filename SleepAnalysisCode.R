@@ -1,5 +1,5 @@
 # ========================================================================================================
-# Purpose:      CBA Paper
+# Purpose:      CBA Paper (NTU Assignment)
 # Author:       Sasha Annabel
 # DOC:          22/07/2024
 # Topics:       Linear Regression, CART, VIFs.
