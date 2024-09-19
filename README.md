@@ -10,7 +10,8 @@
 <img src="https://github.com/user-attachments/assets/a13087f8-587e-48f0-8494-77868eec0bec" width="850" height="300">
 
 
-##### And here is a snippet of the findings acquired through comparisons between linear regression and CART model. Do check out the assignment report for more information on how this is interpreted!
+##### And here is a snippet of the findings acquired through comparisons between linear regression and CART model. 
+##### Do check out the assignment report for more information on how this is interpreted!
 <img src="https://github.com/user-attachments/assets/e0c6ed07-5d2a-40ea-8baa-2b8dd8981c12" width="550" height="300">
 
 
