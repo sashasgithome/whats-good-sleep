@@ -3,7 +3,7 @@
 #### ⭐ Project Name : Determination of Factors Influencing Sleep Wellness 
 #### ⌛ Related Class : Data Analytics Visual & Predictive Techniques
 #### 🔑 Keywords : histogram, scatter plot, linear regression, CART, mmulticollinearity
-##### Description : exploring multiple variables and their effects on sleep efficiency, then finding the top variables with highest effect using learning (train/test) models and observing their R-squared values, RMSE, and others. 
+##### Description : exploring multiple variables and their effects on sleep efficiency in RStudio, then finding the top variables with highest effect using learning (train/test) models and observing their R-squared values, RMSE, and others. 
 
 
 ##### Below is the first few rows and columns of all variables recorded in the sleep.csv dataset.
