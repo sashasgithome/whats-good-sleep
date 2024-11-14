@@ -1,6 +1,6 @@
 # ========================================================================================================
 # Purpose:      CBA Paper (NTU Assignment)
-# Author:       Sasha Annabel
+# Author:       Sasha A.
 # DOC:          22/07/2024
 # Topics:       Linear Regression, CART, VIFs.
 # Data Source:  sleep.csv
